@@ -1,0 +1,38 @@
+columna,tipo,descripcion,nulos,ejemplo
+id_venta,str,Identificador único de la línea de venta (prefijo de sucursal + número),0,AMB-00001
+fecha,datetime64[us],Fecha de la venta,0,2025-01-01 00:00:00
+anio,int32,Año de la venta,0,2025
+mes,int32,Mes de la venta (1-12),0,1
+trimestre,int32,Trimestre (1-4),0,1
+dia_semana,str,Día de la semana en español,0,Miércoles
+id_sucursal,int64,Identificador de la sucursal,0,1
+sucursal,str,Nombre de la sucursal,0,TecnoAndes Ambato
+ciudad_sucursal,str,Ciudad de la sucursal,0,Ambato
+provincia_sucursal,str,Provincia de la sucursal,0,Tungurahua
+id_producto,Int64,Identificador numérico del producto,0,24
+sku,str,Código del producto en el ERP,0,TA-0024
+producto,str,Nombre del producto,0,Memoria USB HP F92
+marca,string,Marca en mayúsculas,0,HP
+categoria,str,Categoría del producto,0,Almacenamiento
+estado_producto,str,Estado en el catálogo (activo / descontinuado),0,activo
+cantidad,Int64,Unidades vendidas,0,1
+precio_lista,float64,Precio de catálogo (USD),0,8.87
+precio_unitario,float64,Precio cobrado por unidad (USD),0,9.09
+descuento,float64,Descuento aplicado (proporción 0-1),0,0.0
+total_bruto,float64,cantidad x precio_unitario (USD),0,9.09
+valor_descuento,float64,total_bruto x descuento (USD),0,0.0
+total_neto,float64,total_bruto - valor_descuento (USD),0,9.09
+costo_unitario,float64,Costo por unidad según bodega (USD); nulo si no existe (R11),111,6.81
+costo_total,float64,cantidad x costo_unitario (USD),111,6.81
+margen_bruto,float64,total_neto - costo_total (USD),111,2.28
+id_cliente,object,Identificador del cliente; C0000 = consumidor final (R4),0,C0216
+cliente,str,Nombre del cliente,0,Mateo Vargas Villacís
+segmento,str,Segmento comercial del cliente,0,Hogar
+ciudad_cliente,string,Ciudad del cliente,21,Riobamba
+provincia_cliente,str,Provincia del cliente,21,Chimborazo
+cliente_en_crm,bool,True si el cliente existe en el CRM,0,True
+vendedor,string,Nombre oficial del vendedor (nómina),0,María José Torres
+comision_pct,float64,Comisión del vendedor (proporción),5,0.05
+stock_sucursal,Int64,Stock del producto en la sucursal al último corte; nulo si era negativo (R10),74,21
+es_venta_atipica,boolean,True si la cantidad supera el umbral de venta atípica (R7),0,False
+fuente,str,Archivo de origen de la venta,0,ambato

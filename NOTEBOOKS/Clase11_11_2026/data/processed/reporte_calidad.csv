@@ -1,0 +1,10 @@
+regla,cumple,fecha_validacion
+id_venta es único,True,2026-11-10
+Sin nulos en columnas clave,True,2026-11-10
+Cantidad mayor que cero,True,2026-11-10
+Precio unitario mayor que cero,True,2026-11-10
+Descuento entre 0 y 1,True,2026-11-10
+Total neto no negativo,True,2026-11-10
+Fechas dentro del período 2025-01-01 a 2026-06-30,True,2026-11-10
+Todas las ventas tienen producto del catálogo,True,2026-11-10
+Stock no negativo,True,2026-11-10

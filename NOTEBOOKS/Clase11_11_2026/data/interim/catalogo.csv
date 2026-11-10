@@ -1,0 +1,61 @@
+id_producto,sku,producto,marca,categoria,estado_producto,precio_lista,garantia_meses,peso_kg
+1,TA-0001,Laptop TP-Link K92,TP-LINK,Computación,activo,876.13,6,2.08
+2,TA-0002,PC de escritorio Sony M80,SONY,Computación,activo,952.37,24,8.33
+3,TA-0003,PC de escritorio Samsung M20,SAMSUNG,Computación,activo,843.96,6,6.86
+4,TA-0004,Laptop Samsung D60,SAMSUNG,Computación,activo,955.73,12,1.69
+5,TA-0005,Tablet Kingston K91,KINGSTON,Computación,activo,479.91,6,0.54
+6,TA-0006,PC de escritorio Epson C92,EPSON,Computación,activo,872.56,24,8.15
+7,TA-0007,PC de escritorio TP-Link G21,TP-LINK,Computación,activo,918.13,12,8.67
+8,TA-0008,Laptop Kingston M72,KINGSTON,Computación,activo,877.86,12,2.1
+9,TA-0009,Tablet Xiaomi H75,XIAOMI,Computación,activo,460.82,24,0.56
+10,TA-0010,Laptop Lenovo K95,LENOVO,Computación,activo,1083.23,6,1.96
+11,TA-0011,Mouse Samsung B90,SAMSUNG,Periféricos,activo,41.18,24,0.1
+12,TA-0012,Monitor Epson X49,EPSON,Periféricos,activo,278.75,24,4.7
+13,TA-0013,Teclado Kingston E44,KINGSTON,Periféricos,activo,40.52,6,0.57
+14,TA-0014,Monitor Samsung H56,SAMSUNG,Periféricos,activo,334.82,6,3.8
+15,TA-0015,Monitor Samsung K94,SAMSUNG,Periféricos,activo,335.83,6,4.76
+16,TA-0016,Mouse Samsung K43,SAMSUNG,Periféricos,activo,34.75,12,0.12
+17,TA-0017,Teclado Samsung X44,SAMSUNG,Periféricos,activo,66.89,12,0.66
+18,TA-0018,Teclado Dell A21,DELL,Periféricos,activo,41.37,6,0.69
+19,TA-0019,Mouse Xiaomi D25,XIAOMI,Periféricos,activo,38.19,24,0.08
+20,TA-0020,Teclado TP-Link F95,TP-LINK,Periféricos,activo,26.05,24,0.72
+21,TA-0021,Memoria USB Dell H85,DELL,Almacenamiento,activo,17.28,6,0.02
+22,TA-0022,Disco externo Epson X30,EPSON,Almacenamiento,activo,68.44,6,0.28
+23,TA-0023,Memoria USB Sony C76,SONY,Almacenamiento,activo,15.0,6,
+24,TA-0024,Memoria USB HP F92,HP,Almacenamiento,activo,8.87,12,0.02
+25,TA-0025,Disco SSD Sony X48,SONY,Almacenamiento,activo,90.22,12,0.06
+26,TA-0026,Memoria USB Xiaomi C29,XIAOMI,Almacenamiento,activo,18.52,24,0.02
+27,TA-0027,Memoria USB Samsung X18,SAMSUNG,Almacenamiento,activo,18.17,24,0.02
+28,TA-0028,Disco SSD Lenovo A67,LENOVO,Almacenamiento,descontinuado,106.58,24,0.05
+29,TA-0029,Disco SSD Dell D76,DELL,Almacenamiento,activo,106.34,6,0.05
+30,TA-0030,Memoria USB Epson G20,EPSON,Almacenamiento,activo,15.23,12,0.02
+31,TA-0031,Switch Samsung G46,SAMSUNG,Redes,descontinuado,57.34,12,0.44
+32,TA-0032,Switch HP K45,HP,Redes,activo,59.27,6,0.57
+33,TA-0033,Router Samsung G79,SAMSUNG,Redes,activo,89.88,24,0.35
+34,TA-0034,Router TP-Link M78,TP-LINK,Redes,activo,82.77,6,0.34
+35,TA-0035,Repetidor WiFi Xiaomi M47,XIAOMI,Redes,activo,45.58,24,0.18
+36,TA-0036,Router Epson G31,EPSON,Redes,activo,43.2,6,0.43
+37,TA-0037,Repetidor WiFi Dell B74,DELL,Redes,activo,42.61,12,0.18
+38,TA-0038,Switch TP-Link E18,TP-LINK,Redes,activo,35.49,6,0.48
+39,TA-0039,Switch Kingston A22,KINGSTON,Redes,activo,87.75,6,0.4
+40,TA-0040,Repetidor WiFi Sony F50,SONY,Redes,activo,40.18,12,0.21
+41,TA-0041,Cámara web Lenovo F87,LENOVO,Audio y video,activo,90.11,6,0.16
+42,TA-0042,Cámara web HP K97,HP,Audio y video,descontinuado,74.62,12,0.14
+43,TA-0043,Parlante Lenovo G13,LENOVO,Audio y video,activo,116.92,12,0.97
+44,TA-0044,Audífonos Epson F84,EPSON,Audio y video,activo,95.63,6,0.25
+45,TA-0045,Cámara web Lenovo B30,LENOVO,Audio y video,activo,76.91,24,0.13
+46,TA-0046,Cámara web TP-Link X48,TP-LINK,Audio y video,activo,68.8,6,0.15
+47,TA-0047,Parlante Kingston G94,KINGSTON,Audio y video,activo,72.15,6,1.0
+48,TA-0048,Audífonos Sony G42,SONY,Audio y video,activo,86.79,6,0.22
+49,TA-0049,Cámara web Samsung F27,SAMSUNG,Audio y video,activo,57.16,24,0.16
+50,TA-0050,Cámara web Lenovo K43,LENOVO,Audio y video,activo,72.26,12,
+51,TA-0051,Tinta Lenovo A90,LENOVO,Impresión,activo,23.16,6,0.1
+52,TA-0052,Escáner Sony G56,SONY,Impresión,activo,202.07,6,
+53,TA-0053,Impresora TP-Link X68,TP-LINK,Impresión,activo,202.6,24,5.62
+54,TA-0054,Escáner Xiaomi C90,XIAOMI,Impresión,activo,130.59,12,2.15
+55,TA-0055,Tinta Sony A91,SONY,Impresión,activo,24.05,6,0.08
+56,TA-0056,Escáner Epson B12,EPSON,Impresión,activo,107.93,24,2.22
+57,TA-0057,Escáner Epson G58,EPSON,Impresión,activo,164.44,24,2.96
+58,TA-0058,Escáner Dell B20,DELL,Impresión,activo,215.47,6,
+59,TA-0059,Tinta Epson M94,EPSON,Impresión,activo,10.83,6,0.09
+60,TA-0060,Escáner Epson G34,EPSON,Impresión,activo,136.44,24,2.63

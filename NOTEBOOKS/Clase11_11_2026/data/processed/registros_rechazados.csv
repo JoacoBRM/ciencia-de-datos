@@ -1,0 +1,24 @@
+id_venta,fecha,cod_producto,id_cliente,vendedor,cantidad,precio_unitario,descuento,fuente,id_sucursal,id_producto,vendedor_clave,motivo
+AMB-00166,2025-05-03,TA-0031,C0252,Andres Ruiz,-3,57.29,0.15,ambato,1,31,ANDRES RUIZ,R2: cantidad nula o menor o igual a cero
+AMB-00173,2025-05-09,TA-0058,C0003,Andrés Ruiz,-3,217.49,0.15,ambato,1,58,ANDRES RUIZ,R2: cantidad nula o menor o igual a cero
+AMB-00193,2025-05-25,TA-0007,C0168,MARÍA JOSÉ TORRES,0,928.62,0.0,ambato,1,7,MARIA JOSE TORRES,R2: cantidad nula o menor o igual a cero
+AMB-00285,2025-07-31,TA-0054,C0083,SOFIA PAREDES,0,130.44,0.0,ambato,1,54,SOFIA PAREDES,R2: cantidad nula o menor o igual a cero
+AMB-00350,2025-09-10,TA-0008,C0236,Sofía Paredes,0,888.43,0.0,ambato,1,8,SOFIA PAREDES,R2: cantidad nula o menor o igual a cero
+AMB-00511,2026-01-04,TA-0006,C0184,  andrés ruiz ,-2,853.21,0.0,ambato,1,6,ANDRES RUIZ,R2: cantidad nula o menor o igual a cero
+AMB-00687,2026-05-29,TA-0015,C0264,Maria Jose Torres,0,326.85,0.0,ambato,1,15,MARIA JOSE TORRES,R2: cantidad nula o menor o igual a cero
+LAT-00247,2025-06-28,ta0019,C0074,Diego Chávez,-3,38.99,0.0,latacunga,2,19,DIEGO CHAVEZ,R2: cantidad nula o menor o igual a cero
+LAT-00467,2026-01-22,ta0020,C0108,Diego Chávez,0,26.46,0.05,latacunga,2,20,DIEGO CHAVEZ,R2: cantidad nula o menor o igual a cero
+LAT-00496,2026-02-18,ta0042,C0200,José Luis Vega,-3,71.73,0.15,latacunga,2,42,JOSE LUIS VEGA,R2: cantidad nula o menor o igual a cero
+LAT-00562,2026-04-19,ta0006,C0290,LUCÍA MENA,0,841.34,0.0,latacunga,2,6,LUCIA MENA,R2: cantidad nula o menor o igual a cero
+LAT-00600,2026-05-22,ta0029,C0233,Lucía Mena,0,105.96,0.0,latacunga,2,29,LUCIA MENA,R2: cantidad nula o menor o igual a cero
+PIL-00080,2025-04-03,48,C0264,Carlos Núñez,-1,86.26,0.0,pillaro,3,48,CARLOS NUNEZ,R2: cantidad nula o menor o igual a cero
+PIL-00271,2025-10-23,3,C0250,Gabriela Ortiz,0,875.84,0.1,pillaro,3,3,GABRIELA ORTIZ,R2: cantidad nula o menor o igual a cero
+PIL-00470,2026-04-22,44,C0234,GABRIELA ORTIZ,-2,95.84,0.0,pillaro,3,44,GABRIELA ORTIZ,R2: cantidad nula o menor o igual a cero
+PIL-00498,2026-05-31,18,C0174,Gabriela Ortiz,0,39.98,0.0,pillaro,3,18,GABRIELA ORTIZ,R2: cantidad nula o menor o igual a cero
+AMB-00247,2025-07-05,TA-0999,C0154,María José Torres,1,83.89,0.0,ambato,1,999,MARIA JOSE TORRES,R3: producto inexistente en el catálogo
+AMB-00293,2025-08-05,TA-0999,C0254,Sofía Paredes,2,853.73,0.0,ambato,1,999,SOFIA PAREDES,R3: producto inexistente en el catálogo
+AMB-00702,2026-06-13,TA-0999,C0196,Sofia Paredes,3,40.91,0.0,ambato,1,999,SOFIA PAREDES,R3: producto inexistente en el catálogo
+LAT-00309,2025-08-25,ta0999,C0113,Lucia Mena,1,16.45,0.0,latacunga,2,999,LUCIA MENA,R3: producto inexistente en el catálogo
+LAT-00630,2026-06-18,ta0998,C0093,Lucia Mena,1,38.39,0.05,latacunga,2,998,LUCIA MENA,R3: producto inexistente en el catálogo
+PIL-00035,2025-02-10,998,C0211,Carlos Núñez,2,18.2,0.0,pillaro,3,998,CARLOS NUNEZ,R3: producto inexistente en el catálogo
+PIL-00113,2025-05-10,998,C0080,  patricio yánez ,3,105.01,0.05,pillaro,3,998,PATRICIO YANEZ,R3: producto inexistente en el catálogo
