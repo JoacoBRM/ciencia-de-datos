@@ -1,0 +1,82 @@
+{
+  "empresa": "TecnoAndes Cía. Ltda.",
+  "fecha_generacion": "2026-11-01",
+  "total_productos": 5,
+  "productos": [
+    {
+      "id_producto": 1,
+      "producto": "Cámara web HP 125",
+      "categoria": "Audio y video",
+      "proveedores": [
+        {
+          "nombre": "Mayorista Pacífico",
+          "pais": "Ecuador"
+        },
+        {
+          "nombre": "Distribuidora Andina",
+          "pais": "Ecuador"
+        }
+      ]
+    },
+    {
+      "id_producto": 2,
+      "producto": "Parlante HP 792",
+      "categoria": "Audio y video",
+      "proveedores": [
+        {
+          "nombre": "Distribuidora Andina",
+          "pais": "Ecuador"
+        },
+        {
+          "nombre": "Mayorista Pacífico",
+          "pais": "Ecuador"
+        }
+      ]
+    },
+    {
+      "id_producto": 3,
+      "producto": "Laptop Lenovo 195",
+      "categoria": "Computación",
+      "proveedores": [
+        {
+          "nombre": "Distribuidora Andina",
+          "pais": "Ecuador"
+        },
+        {
+          "nombre": "TecnoImport S.A.",
+          "pais": "Ecuador"
+        }
+      ]
+    },
+    {
+      "id_producto": 4,
+      "producto": "Teclado Sony 529",
+      "categoria": "Periféricos",
+      "proveedores": [
+        {
+          "nombre": "TecnoImport S.A.",
+          "pais": "Ecuador"
+        },
+        {
+          "nombre": "Comercial Sierra",
+          "pais": "Ecuador"
+        }
+      ]
+    },
+    {
+      "id_producto": 5,
+      "producto": "Monitor Kingston 448",
+      "categoria": "Periféricos",
+      "proveedores": [
+        {
+          "nombre": "Mayorista Pacífico",
+          "pais": "Ecuador"
+        },
+        {
+          "nombre": "Distribuidora Andina",
+          "pais": "Ecuador"
+        }
+      ]
+    }
+  ]
+}

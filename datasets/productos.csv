@@ -1,0 +1,123 @@
+id_producto,producto,categoria_id,precio,stock,proveedor,fecha_ingreso
+1,Cámara web HP 125,5,68.47,62,TecnoImport S.A.,2025-05-23
+2,Parlante HP 792,5,49.78,139,Distribuidora Andina,2026-03-09
+3,Laptop Lenovo 195,1,791.51,129,Distribuidora Andina,2026-07-29
+4,Teclado Sony 529,2,32.63,150,Comercial Sierra,2025-01-07
+5,Monitor Kingston 448,2,203.01,55,Comercial Sierra,2025-04-15
+6,Tablet Kingston 199,1,324.92,88,Comercial Sierra,2025-02-14
+7,Parlante Samsung 649,5,35.0,96,Distribuidora Andina,2026-07-20
+8,Mouse Xiaomi 982,2,,49,Distribuidora Andina,2025-02-16
+9,Cámara web Logitech 891,5,53.55,20,TecnoImport S.A.,2025-04-14
+10,Disco SSD Epson 564,3,88.61,93,TecnoImport S.A.,2026-01-15
+11,Impresora Logitech 786,2,153.63,18,TecnoImport S.A.,2026-07-01
+12,Parlante Logitech 267,5,43.09,69,TecnoImport S.A.,2025-11-29
+13,Laptop Logitech 941,1,696.37,80,Mayorista Pacífico,2025-10-02
+14,Tablet Logitech 680,1,424.26,80,TecnoImport S.A.,2026-05-27
+15,Disco SSD Samsung 246,3,71.92,63,Comercial Sierra,2026-08-22
+16,Disco SSD Xiaomi 508,3,76.29,35,,2025-04-04
+17,Laptop HP 256,1,1000.0,108,Distribuidora Andina,2026-01-30
+18,Disco SSD Xiaomi 579,3,83.81,141,Distribuidora Andina,2025-04-28
+19,Cámara web Sony 868,5,52.81,87,Distribuidora Andina,2025-10-28
+20,Disco SSD Dell 564,3,60.15,67,TecnoImport S.A.,2026-06-04
+21,Tablet Epson 961,1,378.68,50,TecnoImport S.A.,2026-01-18
+22,Monitor Sony 897,2,284.23,0,Comercial Sierra,2026-05-16
+23,Laptop HP 471,1,1128.15,78,TecnoImport S.A.,2025-03-01
+24,Teclado Xiaomi 180,2,29.8,124,Distribuidora Andina,2026-06-30
+25,Monitor Dell 775,2,227.89,140,TecnoImport S.A.,2025-09-29
+26,Router Xiaomi 533,4,82.72,138,TecnoImport S.A.,2025-11-16
+27,Disco SSD TP-Link 548,3,100.48,115,Distribuidora Andina,2025-09-11
+28,Teclado HP 446,2,28.44,141,TecnoImport S.A.,2025-08-14
+29,Laptop HP 824,1,1001.86,58,Distribuidora Andina,2025-02-02
+30,Impresora HP 626,2,150.85,124,TecnoImport S.A.,2026-07-07
+31,Monitor Xiaomi 690,2,227.56,121,Mayorista Pacífico,2025-07-14
+32,Tablet HP 774,1,338.76,108,Mayorista Pacífico,2026-04-24
+33,Parlante Lenovo 789,5,47.68,25,Distribuidora Andina,2026-02-17
+34,Parlante TP-Link 919,5,,63,TecnoImport S.A.,2025-07-14
+35,Router Samsung 243,4,63.19,71,Mayorista Pacífico,2025-09-13
+36,Tablet Samsung 927,1,421.38,140,Distribuidora Andina,2025-02-21
+37,Cámara web Sony 956,5,44.49,23,TecnoImport S.A.,2025-06-20
+38,Disco SSD Samsung 592,3,69.62,102,Distribuidora Andina,2025-06-18
+39,Disco SSD Lenovo 499,3,71.93,116,Comercial Sierra,2026-03-10
+40,Parlante Sony 777,5,49.24,39,TecnoImport S.A.,2025-10-31
+41,Teclado Lenovo 693,2,43.45,15,Comercial Sierra,2025-02-28
+42,Laptop Xiaomi 588,1,936.45,135,TecnoImport S.A.,2025-02-28
+43,Router HP 971,4,54.69,17,TecnoImport S.A.,2026-02-18
+44,Tablet Xiaomi 352,1,367.15,10,Distribuidora Andina,2026-03-06
+45,Cámara web Xiaomi 678,5,61.25,66,TecnoImport S.A.,2025-11-18
+46,Teclado Epson 505,2,30.75,76,Mayorista Pacífico,2025-11-20
+47,Tablet Lenovo 569,1,375.26,144,Distribuidora Andina,2025-03-17
+48,Router Logitech 618,4,57.55,89,Distribuidora Andina,2025-09-08
+49,Impresora Epson 261,2,170.07,139,Comercial Sierra,2026-06-26
+50,Laptop Sony 406,1,1155.2,26,TecnoImport S.A.,2025-09-28
+51,Tablet HP 860,1,362.22,69,Comercial Sierra,2025-08-04
+52,Parlante TP-Link 308,5,48.5,67,Mayorista Pacífico,2025-09-15
+53,Laptop HP 749,1,896.02,70,Distribuidora Andina,2025-01-04
+54,Impresora Dell 752,2,222.06,41,Mayorista Pacífico,2026-07-19
+55,Parlante Kingston 674,5,32.23,19,TecnoImport S.A.,2026-07-13
+56,Laptop TP-Link 696,1,961.79,110,TecnoImport S.A.,2025-02-12
+57,Mouse TP-Link 915,2,24.9,10,Comercial Sierra,2025-08-04
+58,Cámara web Logitech 782,5,47.39,143,Mayorista Pacífico,2025-06-08
+59,Teclado Dell 919,2,45.03,105,Distribuidora Andina,2025-07-03
+60,Parlante TP-Link 901,5,54.34,63,Comercial Sierra,2025-06-13
+61,Parlante HP 491,5,52.93,120,TecnoImport S.A.,2025-07-24
+62,Memoria USB TP-Link 412,3,15.51,58,TecnoImport S.A.,2025-01-25
+63,Cámara web Logitech 508,5,54.83,17,Comercial Sierra,2025-12-26
+64,Cámara web Sony 509,5,66.42,137,Comercial Sierra,2025-01-29
+65,Tablet Epson 282,1,367.47,67,,2025-04-22
+66,Audífonos Kingston 453,5,55.67,80,Mayorista Pacífico,2026-06-08
+67,Tablet Kingston 690,1,292.5,11,Mayorista Pacífico,2025-01-02
+68,Router Sony 803,4,73.9,50,Comercial Sierra,2026-03-18
+69,Tablet TP-Link 738,1,316.27,31,Comercial Sierra,2026-06-04
+70,Mouse Kingston 434,2,18.75,75,TecnoImport S.A.,2025-07-16
+71,Disco SSD Kingston 793,3,93.67,44,Comercial Sierra,2026-02-20
+72,Router Lenovo 411,4,58.33,110,Comercial Sierra,2026-04-22
+73,Memoria USB Samsung 791,3,11.14,121,TecnoImport S.A.,2025-03-28
+74,Mouse Sony 779,2,21.24,85,Distribuidora Andina,2025-08-29
+75,Cámara web Epson 330,5,70.62,37,Distribuidora Andina,2025-02-17
+76,Teclado Samsung 725,2,45.84,18,Mayorista Pacífico,2026-03-01
+77,Cámara web Xiaomi 299,5,67.71,98,Mayorista Pacífico,2026-02-14
+78,Teclado Dell 771,2,42.44,27,Mayorista Pacífico,2025-08-13
+79,Monitor Sony 575,2,174.33,63,Distribuidora Andina,2026-04-13
+80,Monitor Samsung 783,2,234.92,143,Comercial Sierra,2026-03-30
+81,Audífonos Sony 536,5,58.43,140,Mayorista Pacífico,2025-06-12
+82,Parlante Samsung 560,5,,63,Comercial Sierra,2026-06-18
+83,Memoria USB Logitech 381,3,12.77,73,TecnoImport S.A.,2025-10-06
+84,Impresora TP-Link 653,2,135.74,38,TecnoImport S.A.,2026-01-28
+85,Parlante Dell 823,5,37.13,106,Mayorista Pacífico,2025-12-05
+86,Router Samsung 525,4,50.24,107,Mayorista Pacífico,2026-08-22
+87,Parlante Lenovo 977,5,53.14,147,Mayorista Pacífico,2026-05-04
+88,Laptop TP-Link 405,1,1064.27,107,TecnoImport S.A.,2026-05-15
+89,Teclado Epson 546,2,38.2,99,Comercial Sierra,2026-02-19
+90,Parlante Dell 960,5,43.22,32,Distribuidora Andina,2026-02-08
+91,Audífonos Xiaomi 778,5,36.73,109,TecnoImport S.A.,2026-04-18
+92,Monitor Lenovo 366,2,215.77,54,Mayorista Pacífico,2025-12-01
+93,Impresora Kingston 384,2,200.19,107,Comercial Sierra,2025-03-25
+94,Memoria USB Lenovo 867,3,13.48,89,TecnoImport S.A.,2025-03-12
+95,Cámara web Lenovo 872,5,45.02,63,TecnoImport S.A.,2025-01-21
+96,Audífonos Dell 344,5,39.41,29,TecnoImport S.A.,2026-04-22
+97,Parlante Epson 885,5,40.85,29,TecnoImport S.A.,2025-11-15
+98,Tablet Xiaomi 126,1,434.35,147,Mayorista Pacífico,2026-02-11
+99,Parlante Logitech 177,5,46.21,62,Distribuidora Andina,2025-11-05
+100,Cámara web Xiaomi 924,5,47.99,144,Distribuidora Andina,2025-12-22
+101,Router Kingston 777,4,61.34,129,Comercial Sierra,2025-01-13
+102,Disco SSD Samsung 208,3,79.51,92,Mayorista Pacífico,2025-06-06
+103,Disco SSD Dell 851,3,83.48,69,Mayorista Pacífico,2026-04-22
+104,Disco SSD Xiaomi 374,3,74.5,62,Distribuidora Andina,2025-10-13
+105,Memoria USB Logitech 868,3,12.95,97,Comercial Sierra,2025-01-30
+106,Memoria USB TP-Link 286,3,13.11,90,Comercial Sierra,2025-12-15
+107,Mouse Xiaomi 818,2,23.91,142,Distribuidora Andina,2026-06-14
+108,Teclado HP 347,2,43.12,125,TecnoImport S.A.,2026-05-03
+109,Cámara web Samsung 558,5,70.17,23,Comercial Sierra,2025-08-15
+110,Disco SSD Logitech 413,3,89.88,94,Mayorista Pacífico,2026-07-21
+111,Router TP-Link 535,4,83.88,140,Comercial Sierra,2025-12-27
+112,Parlante Samsung 377,5,39.36,59,Distribuidora Andina,2025-07-17
+113,Impresora HP 860,2,179.44,47,TecnoImport S.A.,2025-08-10
+114,Parlante Samsung 383,5,49.39,134,Comercial Sierra,2025-04-13
+115,Teclado Epson 332,2,35.58,77,Distribuidora Andina,2026-07-01
+116,Monitor Epson 146,2,290.76,141,Comercial Sierra,2025-05-10
+117,Cámara web Samsung 205,5,72.8,146,Comercial Sierra,2026-04-26
+118,Memoria USB Samsung 448,3,10.93,13,Comercial Sierra,2026-05-05
+119,Tablet HP 510,1,350.42,147,Distribuidora Andina,2025-06-05
+120,Monitor Xiaomi 411,2,178.73,63,Distribuidora Andina,2026-07-26
+11,Impresora Logitech 786,2,153.63,18,TecnoImport S.A.,2026-07-01
+43,Router HP 971,4,54.69,17,TecnoImport S.A.,2026-02-18

@@ -1,0 +1,651 @@
+[
+  {
+    "id_producto": 1,
+    "producto": "Cámara web HP 125",
+    "disponible": true,
+    "categoria": {
+      "id": 5,
+      "nombre": "Audio y video"
+    },
+    "caracteristicas": {
+      "marca": "HP",
+      "garantia_meses": 12,
+      "dimensiones": {
+        "ancho_cm": 32.7,
+        "alto_cm": 19.4
+      }
+    },
+    "etiquetas": [
+      "multimedia",
+      "video"
+    ]
+  },
+  {
+    "id_producto": 2,
+    "producto": "Parlante HP 792",
+    "disponible": true,
+    "categoria": {
+      "id": 5,
+      "nombre": "Audio y video"
+    },
+    "caracteristicas": {
+      "marca": "HP",
+      "garantia_meses": 12,
+      "dimensiones": {
+        "ancho_cm": 7.9,
+        "alto_cm": 22.1
+      },
+      "peso_kg": 5.61
+    },
+    "etiquetas": [
+      "video",
+      "multimedia"
+    ]
+  },
+  {
+    "id_producto": 3,
+    "producto": "Laptop Lenovo 195",
+    "disponible": true,
+    "categoria": {
+      "id": 1,
+      "nombre": "Computación"
+    },
+    "caracteristicas": {
+      "marca": "Lenovo",
+      "garantia_meses": 12,
+      "dimensiones": {
+        "ancho_cm": 9.6,
+        "alto_cm": 8.1
+      },
+      "peso_kg": 3.1
+    },
+    "etiquetas": [
+      "portatil",
+      "computacion"
+    ]
+  },
+  {
+    "id_producto": 4,
+    "producto": "Teclado Sony 529",
+    "disponible": true,
+    "categoria": {
+      "id": 2,
+      "nombre": "Periféricos"
+    },
+    "caracteristicas": {
+      "marca": "Sony",
+      "garantia_meses": 6,
+      "dimensiones": {
+        "ancho_cm": 49.9,
+        "alto_cm": 39.9
+      },
+      "peso_kg": 2.52
+    },
+    "etiquetas": [
+      "oficina",
+      "accesorios"
+    ]
+  },
+  {
+    "id_producto": 5,
+    "producto": "Monitor Kingston 448",
+    "disponible": true,
+    "categoria": {
+      "id": 2,
+      "nombre": "Periféricos"
+    },
+    "caracteristicas": {
+      "marca": "Kingston",
+      "garantia_meses": 6,
+      "dimensiones": {
+        "ancho_cm": 26.2,
+        "alto_cm": 4.6
+      }
+    },
+    "etiquetas": [
+      "oficina",
+      "perifericos"
+    ]
+  },
+  {
+    "id_producto": 6,
+    "producto": "Tablet Kingston 199",
+    "disponible": true,
+    "categoria": {
+      "id": 1,
+      "nombre": "Computación"
+    },
+    "caracteristicas": {
+      "marca": "Kingston",
+      "garantia_meses": 24,
+      "dimensiones": {
+        "ancho_cm": 40.7,
+        "alto_cm": 35.8
+      }
+    },
+    "etiquetas": [
+      "portatil",
+      "oficina"
+    ]
+  },
+  {
+    "id_producto": 7,
+    "producto": "Parlante Samsung 649",
+    "disponible": true,
+    "categoria": {
+      "id": 5,
+      "nombre": "Audio y video"
+    },
+    "caracteristicas": {
+      "marca": "Samsung",
+      "garantia_meses": 24,
+      "dimensiones": {
+        "ancho_cm": 50.7,
+        "alto_cm": 34.4
+      },
+      "peso_kg": 3.71
+    },
+    "etiquetas": [
+      "multimedia",
+      "video"
+    ]
+  },
+  {
+    "id_producto": 8,
+    "producto": "Mouse Xiaomi 982",
+    "disponible": true,
+    "categoria": {
+      "id": 2,
+      "nombre": "Periféricos"
+    },
+    "caracteristicas": {
+      "marca": "Xiaomi",
+      "garantia_meses": 12,
+      "dimensiones": {
+        "ancho_cm": 16.9,
+        "alto_cm": 7.6
+      },
+      "peso_kg": 3.67
+    },
+    "etiquetas": [
+      "oficina",
+      "perifericos"
+    ]
+  },
+  {
+    "id_producto": 9,
+    "producto": "Cámara web Logitech 891",
+    "disponible": true,
+    "categoria": {
+      "id": 5,
+      "nombre": "Audio y video"
+    },
+    "caracteristicas": {
+      "marca": "Logitech",
+      "garantia_meses": 12,
+      "dimensiones": {
+        "ancho_cm": 18.1,
+        "alto_cm": 6.4
+      }
+    },
+    "etiquetas": [
+      "video",
+      "audio"
+    ]
+  },
+  {
+    "id_producto": 10,
+    "producto": "Disco SSD Epson 564",
+    "disponible": true,
+    "categoria": {
+      "id": 3,
+      "nombre": "Almacenamiento"
+    },
+    "caracteristicas": {
+      "marca": "Epson",
+      "garantia_meses": 6,
+      "dimensiones": {
+        "ancho_cm": 11.1,
+        "alto_cm": 40.8
+      },
+      "peso_kg": 0.15
+    },
+    "etiquetas": [
+      "almacenamiento",
+      "respaldo"
+    ]
+  },
+  {
+    "id_producto": 11,
+    "producto": "Impresora Logitech 786",
+    "disponible": true,
+    "categoria": {
+      "id": 2,
+      "nombre": "Periféricos"
+    },
+    "caracteristicas": {
+      "marca": "Logitech",
+      "garantia_meses": 12,
+      "dimensiones": {
+        "ancho_cm": 28.6,
+        "alto_cm": 28.1
+      }
+    },
+    "etiquetas": [
+      "oficina",
+      "perifericos"
+    ]
+  },
+  {
+    "id_producto": 12,
+    "producto": "Parlante Logitech 267",
+    "disponible": true,
+    "categoria": {
+      "id": 5,
+      "nombre": "Audio y video"
+    },
+    "caracteristicas": {
+      "marca": "Logitech",
+      "garantia_meses": 24,
+      "dimensiones": {
+        "ancho_cm": 41.8,
+        "alto_cm": 24.0
+      },
+      "peso_kg": 5.72
+    },
+    "etiquetas": [
+      "video",
+      "multimedia"
+    ]
+  },
+  {
+    "id_producto": 13,
+    "producto": "Laptop Logitech 941",
+    "disponible": true,
+    "categoria": {
+      "id": 1,
+      "nombre": "Computación"
+    },
+    "caracteristicas": {
+      "marca": "Logitech",
+      "garantia_meses": 12,
+      "dimensiones": {
+        "ancho_cm": 53.0,
+        "alto_cm": 2.9
+      },
+      "peso_kg": 2.27
+    },
+    "etiquetas": [
+      "oficina",
+      "computacion"
+    ]
+  },
+  {
+    "id_producto": 14,
+    "producto": "Tablet Logitech 680",
+    "disponible": true,
+    "categoria": {
+      "id": 1,
+      "nombre": "Computación"
+    },
+    "caracteristicas": {
+      "marca": "Logitech",
+      "garantia_meses": 12,
+      "dimensiones": {
+        "ancho_cm": 48.4,
+        "alto_cm": 16.2
+      },
+      "peso_kg": 3.79
+    },
+    "etiquetas": [
+      "oficina",
+      "portatil"
+    ]
+  },
+  {
+    "id_producto": 15,
+    "producto": "Disco SSD Samsung 246",
+    "disponible": true,
+    "categoria": {
+      "id": 3,
+      "nombre": "Almacenamiento"
+    },
+    "caracteristicas": {
+      "marca": "Samsung",
+      "garantia_meses": 6,
+      "dimensiones": {
+        "ancho_cm": 7.4,
+        "alto_cm": 25.0
+      },
+      "peso_kg": 1.09
+    },
+    "etiquetas": [
+      "respaldo",
+      "almacenamiento"
+    ]
+  },
+  {
+    "id_producto": 16,
+    "producto": "Disco SSD Xiaomi 508",
+    "disponible": true,
+    "categoria": {
+      "id": 3,
+      "nombre": "Almacenamiento"
+    },
+    "caracteristicas": {
+      "marca": "Xiaomi",
+      "garantia_meses": 24,
+      "dimensiones": {
+        "ancho_cm": 15.0,
+        "alto_cm": 6.9
+      },
+      "peso_kg": 5.66
+    },
+    "etiquetas": [
+      "almacenamiento",
+      "respaldo"
+    ]
+  },
+  {
+    "id_producto": 17,
+    "producto": "Laptop HP 256",
+    "disponible": true,
+    "categoria": {
+      "id": 1,
+      "nombre": "Computación"
+    },
+    "caracteristicas": {
+      "marca": "HP",
+      "garantia_meses": 6,
+      "dimensiones": {
+        "ancho_cm": 7.4,
+        "alto_cm": 9.8
+      }
+    },
+    "etiquetas": [
+      "portatil",
+      "oficina"
+    ]
+  },
+  {
+    "id_producto": 18,
+    "producto": "Disco SSD Xiaomi 579",
+    "disponible": true,
+    "categoria": {
+      "id": 3,
+      "nombre": "Almacenamiento"
+    },
+    "caracteristicas": {
+      "marca": "Xiaomi",
+      "garantia_meses": 24,
+      "dimensiones": {
+        "ancho_cm": 31.0,
+        "alto_cm": 2.6
+      },
+      "peso_kg": 1.75
+    },
+    "etiquetas": [
+      "almacenamiento",
+      "respaldo"
+    ]
+  },
+  {
+    "id_producto": 19,
+    "producto": "Cámara web Sony 868",
+    "disponible": true,
+    "categoria": {
+      "id": 5,
+      "nombre": "Audio y video"
+    },
+    "caracteristicas": {
+      "marca": "Sony",
+      "garantia_meses": 12,
+      "dimensiones": {
+        "ancho_cm": 11.8,
+        "alto_cm": 17.2
+      },
+      "peso_kg": 4.47
+    },
+    "etiquetas": [
+      "audio",
+      "video"
+    ]
+  },
+  {
+    "id_producto": 20,
+    "producto": "Disco SSD Dell 564",
+    "disponible": true,
+    "categoria": {
+      "id": 3,
+      "nombre": "Almacenamiento"
+    },
+    "caracteristicas": {
+      "marca": "Dell",
+      "garantia_meses": 6,
+      "dimensiones": {
+        "ancho_cm": 32.3,
+        "alto_cm": 22.9
+      },
+      "peso_kg": 3.14
+    },
+    "etiquetas": [
+      "almacenamiento",
+      "respaldo"
+    ]
+  },
+  {
+    "id_producto": 21,
+    "producto": "Tablet Epson 961",
+    "disponible": true,
+    "categoria": {
+      "id": 1,
+      "nombre": "Computación"
+    },
+    "caracteristicas": {
+      "marca": "Epson",
+      "garantia_meses": 6,
+      "dimensiones": {
+        "ancho_cm": 28.7,
+        "alto_cm": 44.8
+      }
+    },
+    "etiquetas": [
+      "portatil",
+      "oficina"
+    ]
+  },
+  {
+    "id_producto": 22,
+    "producto": "Monitor Sony 897",
+    "disponible": false,
+    "categoria": {
+      "id": 2,
+      "nombre": "Periféricos"
+    },
+    "caracteristicas": {
+      "marca": "Sony",
+      "garantia_meses": 6,
+      "dimensiones": {
+        "ancho_cm": 9.4,
+        "alto_cm": 30.1
+      },
+      "peso_kg": 3.64
+    },
+    "etiquetas": [
+      "oficina",
+      "perifericos"
+    ]
+  },
+  {
+    "id_producto": 23,
+    "producto": "Laptop HP 471",
+    "disponible": true,
+    "categoria": {
+      "id": 1,
+      "nombre": "Computación"
+    },
+    "caracteristicas": {
+      "marca": "HP",
+      "garantia_meses": 24,
+      "dimensiones": {
+        "ancho_cm": 29.4,
+        "alto_cm": 20.7
+      },
+      "peso_kg": 5.47
+    },
+    "etiquetas": [
+      "oficina",
+      "portatil"
+    ]
+  },
+  {
+    "id_producto": 24,
+    "producto": "Teclado Xiaomi 180",
+    "disponible": true,
+    "categoria": {
+      "id": 2,
+      "nombre": "Periféricos"
+    },
+    "caracteristicas": {
+      "marca": "Xiaomi",
+      "garantia_meses": 12,
+      "dimensiones": {
+        "ancho_cm": 40.2,
+        "alto_cm": 35.8
+      }
+    },
+    "etiquetas": [
+      "accesorios",
+      "oficina"
+    ]
+  },
+  {
+    "id_producto": 25,
+    "producto": "Monitor Dell 775",
+    "disponible": true,
+    "categoria": {
+      "id": 2,
+      "nombre": "Periféricos"
+    },
+    "caracteristicas": {
+      "marca": "Dell",
+      "garantia_meses": 12,
+      "dimensiones": {
+        "ancho_cm": 33.2,
+        "alto_cm": 34.0
+      }
+    },
+    "etiquetas": [
+      "perifericos",
+      "accesorios"
+    ]
+  },
+  {
+    "id_producto": 26,
+    "producto": "Router Xiaomi 533",
+    "disponible": true,
+    "categoria": {
+      "id": 4,
+      "nombre": "Redes"
+    },
+    "caracteristicas": {
+      "marca": "Xiaomi",
+      "garantia_meses": 24,
+      "dimensiones": {
+        "ancho_cm": 42.3,
+        "alto_cm": 20.3
+      }
+    },
+    "etiquetas": [
+      "redes",
+      "conectividad"
+    ]
+  },
+  {
+    "id_producto": 27,
+    "producto": "Disco SSD TP-Link 548",
+    "disponible": true,
+    "categoria": {
+      "id": 3,
+      "nombre": "Almacenamiento"
+    },
+    "caracteristicas": {
+      "marca": "TP-Link",
+      "garantia_meses": 12,
+      "dimensiones": {
+        "ancho_cm": 26.1,
+        "alto_cm": 26.0
+      },
+      "peso_kg": 4.09
+    },
+    "etiquetas": [
+      "respaldo",
+      "almacenamiento"
+    ]
+  },
+  {
+    "id_producto": 28,
+    "producto": "Teclado HP 446",
+    "disponible": true,
+    "categoria": {
+      "id": 2,
+      "nombre": "Periféricos"
+    },
+    "caracteristicas": {
+      "marca": "HP",
+      "garantia_meses": 12,
+      "dimensiones": {
+        "ancho_cm": 47.0,
+        "alto_cm": 26.3
+      },
+      "peso_kg": 2.42
+    },
+    "etiquetas": [
+      "accesorios",
+      "oficina"
+    ]
+  },
+  {
+    "id_producto": 29,
+    "producto": "Laptop HP 824",
+    "disponible": true,
+    "categoria": {
+      "id": 1,
+      "nombre": "Computación"
+    },
+    "caracteristicas": {
+      "marca": "HP",
+      "garantia_meses": 6,
+      "dimensiones": {
+        "ancho_cm": 57.8,
+        "alto_cm": 2.1
+      }
+    },
+    "etiquetas": [
+      "oficina",
+      "portatil"
+    ]
+  },
+  {
+    "id_producto": 30,
+    "producto": "Impresora HP 626",
+    "disponible": true,
+    "categoria": {
+      "id": 2,
+      "nombre": "Periféricos"
+    },
+    "caracteristicas": {
+      "marca": "HP",
+      "garantia_meses": 24,
+      "dimensiones": {
+        "ancho_cm": 11.5,
+        "alto_cm": 35.1
+      },
+      "peso_kg": 1.33
+    },
+    "etiquetas": [
+      "accesorios",
+      "oficina"
+    ]
+  }
+]
