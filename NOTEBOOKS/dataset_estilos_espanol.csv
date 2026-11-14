@@ -1,0 +1,241 @@
+﻿grupo,texto,estilo,label
+1,Le agradecería que enviara el informe antes del viernes.,formal,0
+1,"Mándame el informe antes del viernes, porfa.",informal,1
+2,La reunión comenzará a las nueve de la mañana.,formal,0
+2,La reunión arranca a las nueve de la mañana.,informal,1
+3,No podré asistir a la conferencia por motivos personales.,formal,0
+3,No puedo ir a la charla por unos asuntos míos.,informal,1
+4,¿Podría indicarme dónde se encuentra la biblioteca?,formal,0
+4,¿Me dices dónde queda la biblioteca?,informal,1
+5,Solicito una prórroga para presentar el proyecto.,formal,0
+5,¿Me dan unos días más para entregar el proyecto?,informal,1
+6,Le comunicamos que su solicitud ha sido aprobada.,formal,0
+6,Te contamos que sí aprobaron tu solicitud.,informal,1
+7,Agradezco su colaboración durante el proceso.,formal,0
+7,Gracias por echarme una mano con todo esto.,informal,1
+8,Es necesario revisar los resultados antes de publicarlos.,formal,0
+8,Hay que revisar los resultados antes de subirlos.,informal,1
+9,Adjunto los documentos requeridos para la matrícula.,formal,0
+9,Te adjunto los papeles que pedían para la matrícula.,informal,1
+10,"Por favor, mantenga su teléfono en modo silencioso.",formal,0
+10,"Pon el teléfono en silencio, por favor.",informal,1
+11,¿Sería posible modificar la fecha de entrega?,formal,0
+11,¿Se puede cambiar la fecha de entrega?,informal,1
+12,Lamento informarle que el producto se encuentra agotado.,formal,0
+12,"Qué pena, pero el producto ya se acabó.",informal,1
+13,El vehículo presenta una falla en el sistema de frenos.,formal,0
+13,El carro tiene un problema con los frenos.,informal,1
+14,Le solicito que confirme su participación en el evento.,formal,0
+14,Avísame si vas a participar en el evento.,informal,1
+15,La inscripción estará disponible hasta el lunes.,formal,0
+15,Te puedes inscribir hasta el lunes.,informal,1
+16,No se permite consumir alimentos dentro del laboratorio.,formal,0
+16,No coman dentro del laboratorio.,informal,1
+17,Me gustaría conocer su opinión acerca de la propuesta.,formal,0
+17,Quisiera saber qué piensas de la propuesta.,informal,1
+18,El paquete será entregado en el transcurso de la tarde.,formal,0
+18,El paquete te llega en la tarde.,informal,1
+19,Ruego disculpar las molestias ocasionadas por la demora.,formal,0
+19,Perdón por todas las molestias de la demora.,informal,1
+20,La profesora explicó nuevamente el procedimiento.,formal,0
+20,La profe volvió a explicar cómo se hacía.,informal,1
+21,Le agradecería responder a la mayor brevedad posible.,formal,0
+21,"Respóndeme apenas puedas, porfa.",informal,1
+22,Hemos recibido su mensaje y lo revisaremos oportunamente.,formal,0
+22,Ya vimos tu mensaje y luego lo revisamos.,informal,1
+23,El acceso permanecerá cerrado durante el mantenimiento.,formal,0
+23,La entrada va a estar cerrada mientras hacen el arreglo.,informal,1
+24,¿Podría ayudarme a resolver esta inquietud?,formal,0
+24,¿Me ayudas con esta duda?,informal,1
+25,Los participantes deberán presentar un documento de identidad.,formal,0
+25,Todos tienen que llevar su cédula.,informal,1
+26,Se recomienda guardar una copia de seguridad del archivo.,formal,0
+26,Mejor guarda una copia del archivo por si acaso.,informal,1
+27,El estudiante obtuvo una calificación sobresaliente.,formal,0
+27,Al chico le fue súper bien en la evaluación.,informal,1
+28,Le informo que llegaré unos minutos después de lo previsto.,formal,0
+28,"Voy a llegar un poquito tarde, te aviso.",informal,1
+29,Su presencia en la ceremonia será muy apreciada.,formal,0
+29,Nos encantaría que vengas a la ceremonia.,informal,1
+30,El establecimiento atiende de lunes a sábado.,formal,0
+30,El local abre de lunes a sábado.,informal,1
+31,"Por favor, verifique que sus datos sean correctos.",formal,0
+31,"Revisa que tus datos estén bien, porfa.",informal,1
+32,El examen comprenderá los contenidos de las tres unidades.,formal,0
+32,En el examen entran las tres unidades.,informal,1
+33,La compañía realizará una actualización del sistema.,formal,0
+33,La empresa va a actualizar el sistema.,informal,1
+34,Quedo a la espera de sus comentarios sobre el borrador.,formal,0
+34,Me cuentas qué te parece el borrador.,informal,1
+35,La actividad fue suspendida debido a las condiciones climáticas.,formal,0
+35,Cancelaron la actividad porque el clima estaba feo.,informal,1
+36,Agradeceríamos que completara la encuesta de satisfacción.,formal,0
+36,¿Nos ayudas llenando la encuesta?,informal,1
+37,Es indispensable respetar los plazos establecidos.,formal,0
+37,Hay que cumplir las fechas que nos dieron.,informal,1
+38,El personal atenderá sus consultas a partir de mañana.,formal,0
+38,Desde mañana el equipo te ayuda con tus dudas.,informal,1
+39,Se ha detectado un error en la factura.,formal,0
+39,Encontramos un error en la factura.,informal,1
+40,Mi solicitud consiste en cambiar el horario de la cita.,formal,0
+40,Quiero cambiar la hora de mi cita.,informal,1
+41,El informe demuestra una mejora en los indicadores.,formal,0
+41,El informe muestra que los números mejoraron.,informal,1
+42,Le deseamos una pronta recuperación.,formal,0
+42,Ojalá te mejores pronto.,informal,1
+43,El documento debe ser firmado por ambas partes.,formal,0
+43,Las dos partes tienen que firmar el documento.,informal,1
+44,¿Podría facilitarme el número de contacto del responsable?,formal,0
+44,¿Me pasas el número de la persona encargada?,informal,1
+45,La sesión será grabada con fines académicos.,formal,0
+45,Vamos a grabar la clase para usarla después.,informal,1
+46,"Por razones de seguridad, utilice la salida posterior.",formal,0
+46,"Por seguridad, sal por la puerta de atrás.",informal,1
+47,Me permito presentar una sugerencia para el equipo.,formal,0
+47,Tengo una idea para comentarles al equipo.,informal,1
+48,El presupuesto no contempla gastos de transporte.,formal,0
+48,En el presupuesto no pusimos la plata del transporte.,informal,1
+49,Es un placer invitarle a la presentación del libro.,formal,0
+49,Nos hace ilusión invitarte a la presentación del libro.,informal,1
+50,Se efectuará una revisión exhaustiva de los equipos.,formal,0
+50,Vamos a revisar bien todos los equipos.,informal,1
+51,Le solicito que conserve este comprobante de pago.,formal,0
+51,"Guarda este recibo de pago, porfa.",informal,1
+52,Los resultados estarán disponibles en la plataforma virtual.,formal,0
+52,Puedes ver los resultados en la plataforma.,informal,1
+53,La próxima semana se publicará el calendario definitivo.,formal,0
+53,La otra semana suben el calendario final.,informal,1
+54,Lamento no haber respondido con anterioridad.,formal,0
+54,"Perdona, se me pasó responderte antes.",informal,1
+55,Es preciso considerar las limitaciones del estudio.,formal,0
+55,También hay que tener en cuenta lo que limita el estudio.,informal,1
+56,El restaurante dispone de opciones vegetarianas.,formal,0
+56,En ese restaurante también hay comida vegetariana.,informal,1
+57,Comunique cualquier cambio al departamento correspondiente.,formal,0
+57,"Si cambia algo, avísale al departamento.",informal,1
+58,"A continuación, se presentan los principales hallazgos.",formal,0
+58,Aquí están las cosas más importantes que encontramos.,informal,1
+59,Le agradecería que cerrara la ventana al salir.,formal,0
+59,"¿Cierras la ventana cuando salgas, porfa?",informal,1
+60,Su pedido fue despachado esta mañana.,formal,0
+60,Tu pedido salió esta mañana.,informal,1
+61,No contamos con información suficiente para tomar una decisión.,formal,0
+61,Todavía nos faltan datos para decidir.,informal,1
+62,La universidad otorgará becas a estudiantes destacados.,formal,0
+62,La universidad les dará becas a quienes tengan buenas notas.,informal,1
+63,Le invitamos a consultar las bases de la convocatoria.,formal,0
+63,Échale un vistazo a las bases de la convocatoria.,informal,1
+64,El plazo de inscripción ha concluido.,formal,0
+64,Ya se acabó el tiempo para inscribirse.,informal,1
+65,"Por favor, proceda a reiniciar el dispositivo.",formal,0
+65,Prueba apagar y prender el aparato.,informal,1
+66,Las entradas se encuentran disponibles en línea.,formal,0
+66,Las entradas ya se pueden comprar por internet.,informal,1
+67,Agradecemos su interés en nuestra institución.,formal,0
+67,Gracias por interesarte en nuestra institución.,informal,1
+68,El curso está dirigido a personas sin experiencia previa.,formal,0
+68,Este curso es para quienes recién empiezan.,informal,1
+69,Su cuenta ha sido bloqueada temporalmente por seguridad.,formal,0
+69,"Por seguridad, tu cuenta quedó bloqueada por un rato.",informal,1
+70,Se ruega no interrumpir a los expositores.,formal,0
+70,"Porfa, no interrumpan a quienes están exponiendo.",informal,1
+71,Nos complace comunicarle que ha sido seleccionado.,formal,0
+71,¡Buenas noticias! Te escogieron.,informal,1
+72,Los postulantes deben cumplir todos los requisitos.,formal,0
+72,Para postular hay que cumplir todos los requisitos.,informal,1
+73,El proveedor confirmó la recepción del pedido.,formal,0
+73,El proveedor ya nos dijo que recibió el pedido.,informal,1
+74,Se suspenderá el suministro de agua por trabajos de reparación.,formal,0
+74,Van a cortar el agua porque están arreglando una tubería.,informal,1
+75,"Por medio de la presente, solicito acceso a los registros.",formal,0
+75,Necesito que me den acceso a esos registros.,informal,1
+76,Los asistentes recibirán un certificado al finalizar el taller.,formal,0
+76,Al terminar el taller les van a dar un certificado.,informal,1
+77,El pago debe realizarse antes del vencimiento.,formal,0
+77,No te olvides de pagar antes de que venza.,informal,1
+78,Agradezco de antemano su atención a esta petición.,formal,0
+78,Gracias desde ya por revisar lo que pedí.,informal,1
+79,El horario de atención ha sido modificado.,formal,0
+79,Cambiaron el horario de atención.,informal,1
+80,Le recomendamos consultar a un profesional especializado.,formal,0
+80,Sería bueno que hables con un especialista.,informal,1
+81,La mercancía presenta daños visibles en el empaque.,formal,0
+81,La caja del producto llegó golpeada.,informal,1
+82,Los archivos adjuntos superan el tamaño permitido.,formal,0
+82,Los archivos pesan más de lo que se puede enviar.,informal,1
+83,Su participación es fundamental para el éxito de esta iniciativa.,formal,0
+83,Tu ayuda es clave para que esta idea salga bien.,informal,1
+84,"En caso de emergencia, comuníquese con recepción.",formal,0
+84,"Si pasa algo urgente, llama a recepción.",informal,1
+85,La evaluación tendrá una duración de noventa minutos.,formal,0
+85,Tienen hora y media para hacer la prueba.,informal,1
+86,Le informaremos cuando exista una respuesta oficial.,formal,0
+86,Te avisamos cuando tengamos una respuesta oficial.,informal,1
+87,Se requiere autorización previa para ingresar al edificio.,formal,0
+87,Hay que pedir permiso antes de entrar al edificio.,informal,1
+88,El equipo acordó posponer la decisión hasta mañana.,formal,0
+88,Quedamos en decidir eso mañana.,informal,1
+89,Es importante conservar los materiales en buen estado.,formal,0
+89,Cuiden los materiales para que no se dañen.,informal,1
+90,La reserva se encuentra confirmada para dos personas.,formal,0
+90,Tu reserva para dos ya está lista.,informal,1
+91,Le agradecería que compartiera el enlace de acceso.,formal,0
+91,¿Me compartes el enlace para entrar?,informal,1
+92,La exposición abordará las causas del cambio climático.,formal,0
+92,La presentación va a tratar sobre las causas del cambio climático.,informal,1
+93,La documentación deberá entregarse en formato digital.,formal,0
+93,Hay que entregar los documentos en digital.,informal,1
+94,El personal de soporte responderá durante el horario laboral.,formal,0
+94,Soporte te responde en horas de trabajo.,informal,1
+95,Nos disculpamos por cualquier inconveniente que esto pudiera causar.,formal,0
+95,Perdón si esto les causa algún problema.,informal,1
+96,El proyecto dispone de recursos limitados.,formal,0
+96,Para el proyecto tenemos pocos recursos.,informal,1
+97,Se ha programado una entrevista para el martes.,formal,0
+97,Te agendaron una entrevista para el martes.,informal,1
+98,Le solicitamos abstenerse de compartir información confidencial.,formal,0
+98,"No compartas información privada, por favor.",informal,1
+99,La actividad requiere la formación de grupos de cuatro integrantes.,formal,0
+99,"Para esta actividad, hagan grupos de cuatro.",informal,1
+100,Quedo atento a cualquier consulta adicional.,formal,0
+100,"Si tienes otra duda, me avisas.",informal,1
+101,El plazo podrá ampliarse de acuerdo con las circunstancias.,formal,0
+101,"Dependiendo de lo que pase, tal vez den más tiempo.",informal,1
+102,Los pasajeros deberán permanecer sentados durante el despegue.,formal,0
+102,"Durante el despegue, todos deben quedarse sentados.",informal,1
+103,El museo ofrece visitas guiadas los fines de semana.,formal,0
+103,Los fines de semana puedes recorrer el museo con un guía.,informal,1
+104,La investigación presenta resultados preliminares prometedores.,formal,0
+104,Los primeros resultados del estudio se ven bastante bien.,informal,1
+105,Agradeceremos que notifique su ausencia con anticipación.,formal,0
+105,"Si no vas a venir, avisa con tiempo, porfa.",informal,1
+106,La aplicación requiere una conexión estable a internet.,formal,0
+106,Para usar la aplicación necesitas buena conexión.,informal,1
+107,El contrato entrará en vigor el primer día del mes.,formal,0
+107,El contrato empieza a valer el primer día del mes.,informal,1
+108,Se recomienda asistir con ropa cómoda.,formal,0
+108,Mejor ven con ropa cómoda.,informal,1
+109,La compra incluye una garantía de doce meses.,formal,0
+109,La compra viene con un año de garantía.,informal,1
+110,Le comunicaremos oportunamente cualquier novedad.,formal,0
+110,Te contamos si hay alguna novedad.,informal,1
+111,El documento adjunto contiene las instrucciones completas.,formal,0
+111,En el archivo adjunto están todas las instrucciones.,informal,1
+112,No fue posible procesar su solicitud en este momento.,formal,0
+112,Ahorita no pudimos procesar tu solicitud.,informal,1
+113,El comité evaluará las propuestas recibidas.,formal,0
+113,El comité va a revisar las propuestas que llegaron.,informal,1
+114,El pedido puede retirarse en nuestra oficina principal.,formal,0
+114,Puedes recoger tu pedido en la oficina principal.,informal,1
+115,Le pedimos que actualice sus datos de contacto.,formal,0
+115,Actualiza tus datos para poder contactarte.,informal,1
+116,La entrega se efectuará una vez confirmado el pago.,formal,0
+116,Te entregamos el producto cuando se confirme el pago.,informal,1
+117,Se ha alcanzado el número máximo de participantes.,formal,0
+117,Ya se llenaron todos los cupos.,informal,1
+118,Es conveniente revisar las instrucciones antes de comenzar.,formal,0
+118,"Antes de empezar, lee bien las instrucciones.",informal,1
+119,El conductor deberá presentar su licencia vigente.,formal,0
+119,El conductor tiene que llevar la licencia al día.,informal,1
+120,La reunión concluyó sin alcanzar un acuerdo.,formal,0
+120,La reunión terminó y nadie llegó a un acuerdo.,informal,1
