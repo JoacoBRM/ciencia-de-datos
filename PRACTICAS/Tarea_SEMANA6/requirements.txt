@@ -1,0 +1,5 @@
+# Python >= 3.11; versiones utilizadas en la ejecución verificada
+numpy==2.4.6
+pandas==3.0.6
+bokeh==3.9.2
+ipykernel==6.29.5
